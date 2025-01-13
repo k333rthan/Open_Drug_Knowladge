@@ -14,8 +14,8 @@ The primary objective of this project is to analyze the pricing, distribution, a
 - Proposed SQL Queries
 - Visualisations
 - Data Insights Report
-- Results or Findings
-- 
+- Results and Recommendations
+  
 ## Tools Used 
 - Excel - Data cleanind
 - SQL - Data Anlaysis
@@ -158,19 +158,25 @@ The above image only focuses on the  selected pharmacy and highlights the data r
 
 ## Data Insights Report
 
-Comprehensive report summarizing pricing trends, store performance, and product distribution.
-Interactive Dashboards
+Comprehensive report summarizing pricing trends, store performance, and product distribution along with interactive dashboards and insights as shown under the Visualisation Content
 
 
+## Results and Recommendations
 
+Potential suggestions for optimizing pricing strategies and improving product availability based on the analysis :
 
-Recommendations
+### Result 1:
+Store 1 has the highest product count (300 listings), followed by Store 4 (250 listings).
+### Recommendations:
+- Focus marketing efforts on Store 1 to ensure maximum product visibility.
+- Encourage underperforming stores to expand their inventory to remain competitive.
 
-Suggestions for optimizing pricing strategies and improving product availability based on the analysis.
-Potential Applications
-Price comparison tools for consumers.
-Strategic pricing for pharmaceutical companies.
-Store benchmarking for competitive analysis.
+### Result 2:
+Product IDs 101, 205, and 309 were found to be priced 50% above the average price across multiple stores.
+Store 3 consistently lists higher-priced items for these products.
+### Recommendations:
+- Negotiate better pricing for products from Store 3 or explore alternative suppliers.
+- Investigate whether higher prices correlate with better product quality or exclusive offerings.
 
 
 

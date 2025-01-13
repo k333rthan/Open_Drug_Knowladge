@@ -5,7 +5,7 @@ Helps to Analyse on the drugs, prices, types, products etc from the given relati
 The primary objective of this project is to analyze the pricing, distribution, and trends of drugs across various stores using the provided dataset. By leveraging SQL, we aim to gain actionable insights into drug pricing patterns, store performance, and product availability, which can aid decision-making in the pharmaceutical industry.
 
 ## Table of Contents
-- Tools Used
+- [Tools Used](#Tools-Used)
 - Dataset Description
 - Price Insights
 - Store Performance

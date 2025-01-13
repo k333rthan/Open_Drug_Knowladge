@@ -1,5 +1,5 @@
 # Open Drug Knowladge Analysis
-Helps to Analyse on the drugs, price, type, products etc from the given relational database dataset
+Helps to Analyse on the drugs, prices, types, products etc from the given relational database dataset
 
 ## Project Overview
 The primary objective of this project is to analyze the pricing, distribution, and trends of drugs across various stores using the provided dataset. By leveraging SQL, we aim to gain actionable insights into drug pricing patterns, store performance, and product availability, which can aid decision-making in the pharmaceutical industry.

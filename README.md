@@ -17,7 +17,7 @@ The primary objective of this project is to analyze the pricing, distribution, a
 - Results and Recommendations
   
 ## Tools Used 
-- Excel - Data cleanind
+- Excel - Data cleanind [Click here to see the Dataset](https://github.com/k333rthan/Open_Drug_Knowladge/blob/097a59a53292befb23dbd2e42c2bff8bfb9cbda4/Dataset.xlsx)
 - SQL - Data Anlaysis
 - Power BI - create Reports and Insights
 

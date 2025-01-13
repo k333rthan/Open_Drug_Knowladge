@@ -2,8 +2,24 @@
 Helps to Analyse on the drugs, price, type, products etc from the given relational database dataset
 
 ## Project Overview
-
 The primary objective of this project is to analyze the pricing, distribution, and trends of drugs across various stores using the provided dataset. By leveraging SQL, we aim to gain actionable insights into drug pricing patterns, store performance, and product availability, which can aid decision-making in the pharmaceutical industry.
+
+## Table of Contents
+- Tools Used
+- Dataset Description
+- Price Insights
+- Store Performance
+- Product trends
+- SQL Query Documentation
+- Proposed SQL Queries
+- Visualisations
+- Data Insights Report
+- Results or Findings
+- 
+## Tools Used 
+- Excel - Data cleanind
+- SQL - Data Anlaysis
+- Power BI - create Reports and Insights
 
 ## Dataset Description
 Some of the important columns for the Data Analysis are listed below: 

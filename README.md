@@ -118,7 +118,19 @@ HAVING MAX(p.price) = MIN(p.price);
 ```
 ## Visualizations ###(e.g., price trends, top stores) created using Power BI for better decision-making.
 ![image alt](https://github.com/k333rthan/Open_Drug_Knowladge/blob/main/Screenshot%202025-01-13%20210804.png?raw=true)
+The above report shows :
+  1. Average Drug Price by Store (Bar Chart)
+	Visualize the average price of drugs across different stores.
+	2.	Drug Price Distribution by Price Type (Pie Chart)
+	Show the percentage of drugs sold under different price types (e.g., Coupon, Cash, Gold).
+	3. Top 10 Most Expensive Drugs (Column Chart)
+	Highlight the top 10 drugs with the highest average price.
+	4.	Price Range of Drugs by Store (Box and Whisker Plot)
+	Display the minimum, maximum, and average drug prices for each store.
+  5. Number of stores and the Sum of Prices Card chart
 
+![image alt]()
+The above image only focuses on the  selected pharmacy and highlights the data related to the purticular pharmacy (here 
 ## Data Insights Report
 
 Comprehensive report summarizing pricing trends, store performance, and product distribution.

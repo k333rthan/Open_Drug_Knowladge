@@ -132,7 +132,7 @@ join drug d on d.id=pr.drug_id
 GROUP BY d.name
 HAVING MAX(p.price) = MIN(p.price);
 ```
-## Visualizations ###(e.g., price trends, top stores) created using Power BI for better decision-making.
+## Visualizations created using Power BI for better decision-making.
 ![image alt](https://github.com/k333rthan/Open_Drug_Knowladge/blob/main/Screenshot%202025-01-13%20210804.png?raw=true)
 
 The above report shows :

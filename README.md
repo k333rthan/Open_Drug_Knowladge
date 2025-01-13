@@ -129,8 +129,9 @@ The above report shows :
 	Display the minimum, maximum, and average drug prices for each store.
   5. Number of stores and the Sum of Prices Card chart
 
-![image alt]()
-The above image only focuses on the  selected pharmacy and highlights the data related to the purticular pharmacy (here 
+![image alt](https://github.com/k333rthan/Open_Drug_Knowladge/blob/main/Screenshot%202025-01-13%20210730.png?raw=true)
+The above image only focuses on the  selected pharmacy and highlights the data related to the purticular pharmacy (here, CVS Pharmacy)
+
 ## Data Insights Report
 
 Comprehensive report summarizing pricing trends, store performance, and product distribution.

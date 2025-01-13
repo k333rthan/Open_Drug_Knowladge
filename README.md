@@ -6,15 +6,15 @@ The primary objective of this project is to analyze the pricing, distribution, a
 
 ## Table of Contents
 - [Tools Used](#Tools-Used)
-- Dataset Description
-- Price Insights
-- Store Performance
-- Product trends
-- SQL Query Documentation
-- Proposed SQL Queries
-- Visualisations
-- Data Insights Report
-- Results and Recommendations
+- [Dataset Description](#Dataset-Description)
+- [Price Insights](#Price-Insights)
+- [Store Performance](#Store-Performance)
+- [Product trends](#Product-trends)
+- [SQL Query Documentation](#SQL-Query-Documentation)
+- [Proposed SQL Queries](#Proposed-SQL-Queries)
+- [Visualisations](#Visualisations)
+- [Data Insights Report](#Data-Insights-Report)
+- [Results and Recommendations](#Results-and-Recommendations)
   
 ## Tools Used 
 - Excel - Data cleanind [Click here to open the dataset](https://github.com/k333rthan/Open_Drug_Knowladge/blob/097a59a53292befb23dbd2e42c2bff8bfb9cbda4/Dataset.xlsx)

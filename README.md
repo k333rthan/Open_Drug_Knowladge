@@ -118,6 +118,7 @@ HAVING MAX(p.price) = MIN(p.price);
 ```
 ## Visualizations ###(e.g., price trends, top stores) created using Power BI for better decision-making.
 ![image alt](https://github.com/k333rthan/Open_Drug_Knowladge/blob/main/Screenshot%202025-01-13%20210804.png?raw=true)
+
 The above report shows :
   1. Average Drug Price by Store (Bar Chart)
 	Visualize the average price of drugs across different stores.
@@ -129,7 +130,14 @@ The above report shows :
 	Display the minimum, maximum, and average drug prices for each store.
   5. Number of stores and the Sum of Prices Card chart
 
+
+
+
+
 ![image alt](https://github.com/k333rthan/Open_Drug_Knowladge/blob/main/Screenshot%202025-01-13%20210730.png?raw=true)
+
+
+
 The above image only focuses on the  selected pharmacy and highlights the data related to the purticular pharmacy (here, CVS Pharmacy)
 
 ## Data Insights Report

@@ -1,4 +1,4 @@
-# Open Drug Knowladge Analysis
+# Open Drug Knowledge Analysis
 Helps to Analyse on the drugs, prices, types, products etc from the given relational database dataset
 
 ## Project Overview
